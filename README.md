@@ -1,18 +1,18 @@
 
-<p align="center">                                                 ༒𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃༒
+<p align="center">                                                 ༒𝐅𝐑𝐄𝐄𝐌𝐀𝐍-𝐀𝐃𝐌𝐈𝐍༒
   
 
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31">
-    <img alt=Support height="390" src="https://files.catbox.moe/aktbgo.jpg"> 
+    <img alt=Support height="390" src="https://files.catbox.moe/nfjzst.jpg"> 
     </p>
  
  
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝐓𝐇𝐈𝐒+𝐈𝐒+𝐑𝐀𝐇𝐌𝐀𝐍𝐈+𝐌𝐃+𝐌𝐀𝐈𝐃𝐄+𝐈𝐍+𝐓𝐀𝐍𝐙𝐀𝐍𝐈𝐀" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝐓𝐇𝐈𝐒+𝐈𝐒+𝐅𝐑𝐄𝐄𝐌𝐀𝐍-𝐀𝐃𝐌𝐈𝐍+𝐌𝐀𝐈𝐃𝐄+𝐈𝐍+𝐓𝐀𝐍𝐙𝐀𝐍𝐈𝐀" alt="Typing SVG" /></a>
 
 #### SETUP  FORK 🌟
 
@@ -26,7 +26,7 @@
 [`PAIRING CODE`](https://rahmani-md-7xqe.onrender.com/)
  
 
-#### DEPLOY TO HEROKU RAHMANI-MD
+#### DEPLOY TO HEROKU 𝐅𝐑𝐄𝐄𝐌𝐀𝐍-𝐀𝐃𝐌𝐈𝐍
 `If You Don't Have An Account On Heroku`
 
 <a align="center"><a href="https://signup.heroku.com">
@@ -42,7 +42,7 @@
 
 
 
-**❖ FOR SUPPORT RAHMANI-MD ❖**
+**❖ FOR SUPPORT 𝐅𝐑𝐄𝐄𝐌𝐀𝐍-𝐀𝐃𝐌𝐈𝐍 ❖**
  
 Stay Connected With The Latest Updates By
    <br>
