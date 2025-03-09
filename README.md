@@ -5,7 +5,7 @@ README.md
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31">
-    <img alt=Support height="390" src="https://files.catbox.moe/nfjzst.jpg"> 
+    <img alt=Support height="390" src="https://files.catbox.moe/xndkxg.jpg"> 
     </p>
  
  
