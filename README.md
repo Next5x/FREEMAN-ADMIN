@@ -34,11 +34,11 @@ README.md
 
 `If You Have a Heroku Account`
 
-<a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Qartde/Rahmani_Md/tree/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Next5x/FREEMAN-ADMIN/tree/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-white?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝐓𝐇𝐈𝐒+𝐈𝐒+𝐑𝐀𝐇𝐌𝐀𝐍𝐈+𝐌𝐃+𝐌𝐀𝐈𝐃𝐄+𝐈𝐍+𝐓𝐀𝐍𝐙𝐀𝐍𝐈𝐀" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝐓𝐇𝐈𝐒+𝐈𝐒+FREEMAN+𝐌𝐃+𝐌𝐀𝐈𝐃𝐄+𝐈𝐍+𝐓𝐀𝐍𝐙𝐀𝐍𝐈𝐀" alt="Typing SVG" /></a>
 
 
 
@@ -56,7 +56,7 @@ Stay Connected With The Latest Updates By
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝗔𝗟𝗪𝗔𝗬𝗦+𝗤𝗔𝗥𝗧" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+RAHMANI MD;RELEASED+1.3.2025" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+FREEMAN+MD;RELEASED+1.3.2025" alt="Typing SVG" /></a>
 
 
 
