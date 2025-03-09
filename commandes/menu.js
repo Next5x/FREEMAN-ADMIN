@@ -38,9 +38,9 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ┃✇│◎ 𝚁𝚊𝚖  : 8/132 GB
 ┃✇│◎ 𝙳𝚊𝚝𝚎  : ${date}
 ┃✇│◎ 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
-┃✇│◎ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 :𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝙼𝙳 
+┃✇│◎ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 :FREMAN  
 ┃✇│◎ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 : ${cm.length}
-┃✇│ 𝚃𝚑𝚎𝚖𝚎 :rahman𝚒
+┃✇│ 𝚃𝚑𝚎𝚖𝚎 :freemanadmin
 ┊   └────••••────⊷
 ╰━━━••✧𝗙𝗥𝗘𝗘𝗠𝗔𝗡 𝗠𝗗✧••━━━◆ \n`;
 
@@ -69,10 +69,10 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
             contextInfo: {
                 mentionedJid: [senderName],
                 externalAdReply: {
-                    title: "𝗧𝗜𝗠𝗡𝗔𝗦𝗔 𝗧𝗘𝗖𝗛",
+                    title: "FREEMAN ADMIN",
                     body: "Tap here my friend join channel update",
-                    thumbnailUrl: "https://files.catbox.moe/xndkxg.jpg",
-                    sourceUrl: "https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31",
+                    thumbnailUrl: "https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31",
+                    sourceUrl: "https://files.catbox.moe/xndkxg.jpg",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }
