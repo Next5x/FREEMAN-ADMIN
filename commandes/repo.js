@@ -36,7 +36,8 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
           *𝗙𝗥𝗘𝗘𝗠𝗔𝗡 𝗠𝗗 BOT INFO* 
 ❒───────────────────❒
-
+*CHANNEL LINK FREEMAN*
+> https://whatsapp.com/channel/0029VazSmf12UPBDDYYwie1O
 *GITHUB LINK*
 >https://github.com/Next5x/FREEMAN-ADMIN
 *CONTACT OWNER*
