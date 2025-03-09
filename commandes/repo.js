@@ -34,26 +34,26 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-          *RAHMANI MD BOT INFO* 
+          *𝗙𝗥𝗘𝗘𝗠𝗔𝗡 𝗠𝗗 BOT INFO* 
 ❒───────────────────❒
 
 *GITHUB LINK*
->https://github.com/Qartde/Rahmani_Md
+>https://github.com/Next5x/FREEMAN-ADMIN
 *CONTACT OWNER*
-> https://wa.me/255693629079
-
+> https://wa.me/255756469954 𝗼𝗿 
+> https://wa.me/255784766591
 *WHATSAPP GROUP*
->https://chat.whatsapp.com/D3dnvm4vsn9HafO6wkqnzF
+>https://chat.whatsapp.com/BgNXVP0zSl8KqUrLFfdJMP
 ⁠
 ╭───────────────────❒
  │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
- │❒⁠⁠⁠⁠ *DEV1* : *Rahmani Md*
- │❒⁠⁠⁠⁠ *DEV2* : *Rahmani tech*
+ │❒⁠⁠⁠⁠ *DEV1* : *𝗙𝗥𝗘𝗘𝗠𝗔𝗡 𝗠𝗗*
+ │❒⁠⁠⁠⁠ *DEV2* : *𝗧𝗜𝗠𝗡𝗔𝗦𝗔 𝗧𝗘𝗖𝗛*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-         *POWERED BY RAHMANI MD*
+         *POWERED BY 𝗙𝗥𝗘𝗘𝗠𝗔𝗡  𝗠𝗗*
 
 ❒───────────────────❒`;
 
