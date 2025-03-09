@@ -1,9 +1,9 @@
 {
-  "name":"𝐊𝐈𝐍𝐆 𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃",
+  "name":"𝐊𝐈𝐍𝐆 FREEMAN-𝐌𝐃",
   "description":"Best whatsapp bot developed by 𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃 ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/aktbgo.jpg",
-  "repository":"https://github.com/Qartde/Rahmani_Md",
+  "logo":"https://files.catbox.moe/xndkxg.jpg",
+  "repository":"https://github.com/Next5x/FREEMAN-ADMIN",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -53,7 +53,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/aktbgo.jpg",
+      "value":"https://files.catbox.moe/xndkxg.jpg",
       "required":false
        
      },
@@ -86,14 +86,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝚁𝚊𝚑𝚖𝚊𝚗𝚒 𝙼𝚍"
+    "value": "FREEMAN-ADMIN"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255693629079"
+    "value": "255784766591 ,255756469954"
   },
     "WARN_COUNT":
   {
